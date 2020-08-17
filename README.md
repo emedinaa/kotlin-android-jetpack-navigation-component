@@ -12,4 +12,4 @@ Collection of samples using navigation component
 
 You can put any issue at https://github.com/emedinaa/kotlin-android-jetpack-navigation-component/issues
  
-I appreciate any question or comment. Also, if you consider it useful, you can give me a star.
+I appreciate any question or comment. Also, if you consider it useful, you can give me a star &#11088; &#11088; &#11088;.
