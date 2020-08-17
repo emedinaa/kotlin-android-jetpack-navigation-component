@@ -8,4 +8,8 @@ Collection of samples using navigation component
 - Github/Android [Android Architecture Components samples](https://github.com/android/architecture-components-samples)
 - CodeLab [Jetpack Navigation](https://codelabs.developers.google.com/codelabs/android-navigation)
 
-I appreciate any question or comment. Also, if you consider it useful , you can give me a star. Besides, you can put any issue at https://github.com/emedinaa/kotlin-android-jetpack-navigation-component/issues
+## Reporting issues
+
+You can put any issue at https://github.com/emedinaa/kotlin-android-jetpack-navigation-component/issues
+ 
+I appreciate any question or comment. Also, if you consider it useful, you can give me a star.
