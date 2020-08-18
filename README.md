@@ -5,6 +5,7 @@ Collection of samples using navigation component
 ### References
 
 - Android developers website [Get started with the Navigation component](https://developer.android.com/guide/navigation/navigation-getting-started)
+- Android developers website [Update UI components with NavigationUI](https://developer.android.com/guide/navigation/navigation-ui)
 - Github/Android [Android Architecture Components samples](https://github.com/android/architecture-components-samples)
 - CodeLab [Jetpack Navigation](https://codelabs.developers.google.com/codelabs/android-navigation)
 
