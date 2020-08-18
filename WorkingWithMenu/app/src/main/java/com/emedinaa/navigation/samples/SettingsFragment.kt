@@ -12,9 +12,7 @@ private const val ARG_PARAM1 = "param1"
 private const val ARG_PARAM2 = "param2"
 
 /**
- * A simple [Fragment] subclass.
- * Use the [SettingFragment.newInstance] factory method to
- * create an instance of this fragment.
+ * @author : Eduardo Medina
  */
 class SettingFragment : Fragment() {
     // TODO: Rename and change types of parameters
