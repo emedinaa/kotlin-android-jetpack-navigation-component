@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/mainFragment">
+
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.emedinaa.navigation.samples.bottomnavigation.MainFragment"
+        android:label="fragment_main"
+        tools:layout="@layout/fragment_main" >
+        <action
+            android:id="@+id/action_mainFragment_to_jetpackFragment"
+            app:destination="@id/jetpackFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_kotlinFragment"
+            app:destination="@id/kotlinFragment" />
+        <action
+            android:id="@+id/action_mainFragment_to_docsFragment"
+            app:destination="@id/docsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/jetpackFragment"
+        android:name="com.emedinaa.navigation.samples.bottomnavigation.JetpackFragment"
+        android:label="fragment_jetpack"
+        tools:layout="@layout/fragment_jetpack" />
+    <fragment
+        android:id="@+id/kotlinFragment"
+        android:name="com.emedinaa.navigation.samples.bottomnavigation.KotlinFragment"
+        android:label="fragment_kotlin"
+        tools:layout="@layout/fragment_kotlin" />
+    <fragment
+        android:id="@+id/docsFragment"
+        android:name="com.emedinaa.navigation.samples.bottomnavigation.DocsFragment"
+        android:label="fragment_docs"
+        tools:layout="@layout/fragment_docs" />
+</navigation>

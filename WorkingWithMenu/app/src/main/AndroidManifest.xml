@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.emedinaa.navigation.samples">
+    package="com.emedinaa.navigation.samples.menu">
 
     <application
         android:allowBackup="true"

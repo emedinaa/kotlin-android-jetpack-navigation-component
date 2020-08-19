@@ -7,7 +7,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "com.emedinaa.navigation.samples"
+        applicationId "com.emedinaa.navigation.samples.menu"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
